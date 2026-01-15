@@ -1,0 +1,7 @@
+﻿  Lab3.cpp
+C:\Users\ilyao\OneDrive\Рабочий стол\ComputerGraphic\Lab3\Lab3.cpp(30,28): warning C4305: аргумент: усечение из "double" в "GLclampf"
+C:\Users\ilyao\OneDrive\Рабочий стол\ComputerGraphic\Lab3\Lab3.cpp(30,23): warning C4305: аргумент: усечение из "double" в "GLclampf"
+C:\Users\ilyao\OneDrive\Рабочий стол\ComputerGraphic\Lab3\Lab3.cpp(30,18): warning C4305: аргумент: усечение из "double" в "GLclampf"
+C:\Users\ilyao\OneDrive\Рабочий стол\ComputerGraphic\Lab3\Lab3.cpp(91,14): warning C4305: +=: усечение из "double" в "float"
+C:\Users\ilyao\OneDrive\Рабочий стол\ComputerGraphic\Lab3\Lab3.cpp(107,32): warning C4305: аргумент: усечение из "double" в "float"
+  Lab3.vcxproj -> C:\Users\ilyao\OneDrive\Рабочий стол\ComputerGraphic\x64\Debug\Lab3.exe

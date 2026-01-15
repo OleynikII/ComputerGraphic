@@ -1,7 +1,5 @@
 ﻿  Lab2.cpp
-C:\Users\ilyao\OneDrive\Рабочий стол\ComputerGraphic\Lab2\Lab2.cpp(67,28): warning C4305: аргумент: усечение из "double" в "GLclampf"
-C:\Users\ilyao\OneDrive\Рабочий стол\ComputerGraphic\Lab2\Lab2.cpp(67,18): warning C4305: аргумент: усечение из "double" в "GLclampf"
-C:\Users\ilyao\OneDrive\Рабочий стол\ComputerGraphic\Lab2\Lab2.cpp(82,33): warning C4305: инициализация: усечение из "double" в "GLfloat"
-C:\Users\ilyao\OneDrive\Рабочий стол\ComputerGraphic\Lab2\Lab2.cpp(82,38): warning C4305: инициализация: усечение из "double" в "GLfloat"
-C:\Users\ilyao\OneDrive\Рабочий стол\ComputerGraphic\Lab2\Lab2.cpp(82,43): warning C4305: инициализация: усечение из "double" в "GLfloat"
+C:\Users\ilyao\OneDrive\Рабочий стол\ComputerGraphic\Lab2\Lab2.cpp(23,28): warning C4305: аргумент: усечение из "double" в "GLclampf"
+C:\Users\ilyao\OneDrive\Рабочий стол\ComputerGraphic\Lab2\Lab2.cpp(23,18): warning C4305: аргумент: усечение из "double" в "GLclampf"
+C:\Users\ilyao\OneDrive\Рабочий стол\ComputerGraphic\Lab2\Lab2.cpp(36,14): warning C4305: +=: усечение из "double" в "float"
   Lab2.vcxproj -> C:\Users\ilyao\OneDrive\Рабочий стол\ComputerGraphic\x64\Debug\Lab2.exe
